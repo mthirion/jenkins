@@ -30,7 +30,7 @@ Helper htmls (help-<varName>.html) files located in the same directory can be us
 When the configuration form is saved, Jenkins calls the constructor of the extension marked with the @DataBoundConstructor annotation, matching parameters by name.
 
 
-** Writing a plugin
+* Writing a plugin
 Plugins are developped using maven.
 After the settings.xml is set with the proper plugin repository, a project can be initiated using "mvn -Pjenkins org.jenkins-ci.tools:maven-hpi-plugin:1.119:create"
 

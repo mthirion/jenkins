@@ -2,7 +2,7 @@
 
 This is a template that can be used to develop Jenkins plugins
 
-** Description
+* Description
 
 This plugin template defines:
 
