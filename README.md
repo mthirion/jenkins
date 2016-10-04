@@ -31,6 +31,7 @@ When the configuration form is saved, Jenkins calls the constructor of the exten
 
 
 * Writing a plugin
+
 Plugins are developped using maven.
 After the settings.xml is set with the proper plugin repository, a project can be initiated using "mvn -Pjenkins org.jenkins-ci.tools:maven-hpi-plugin:1.119:create"
 
